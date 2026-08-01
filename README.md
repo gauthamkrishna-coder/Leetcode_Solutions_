@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -45,5 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

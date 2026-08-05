@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3174-clear-digits](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -97,4 +98,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3174-clear-digits](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3174-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->

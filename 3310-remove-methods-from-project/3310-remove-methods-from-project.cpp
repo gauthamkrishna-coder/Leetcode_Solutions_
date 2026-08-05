@@ -3,9 +3,9 @@ public:
     void dfs(int node, vector<vector<int>> &adj, vector<bool> &suspicious){
         suspicious[node] = true;
 
-        for(int nei : adj[node]){
-            if(!suspicious[nei]){
-                dfs(nei, adj, suspicious);
+        for(int neigh : adj[node]){
+            if(!suspicious[neigh]){
+                dfs(neigh, adj, suspicious);
             }
         }
     }
@@ -19,7 +19,7 @@ public:
 
         vector<bool> suspicious(n, false);
         dfs(k, adj, suspicious);
-        
+
         for(auto &edge : invocations){
             int u = edge[0];
             int v = edge[1];

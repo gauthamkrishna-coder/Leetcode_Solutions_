@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->

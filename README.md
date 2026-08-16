@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Recursion
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |

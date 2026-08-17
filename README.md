@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0290-word-pattern) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0290-word-pattern) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |

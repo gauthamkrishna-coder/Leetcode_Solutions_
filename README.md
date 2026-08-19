@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0877-stone-game) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |

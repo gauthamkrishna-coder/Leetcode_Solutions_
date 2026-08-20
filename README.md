@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
+| [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [0877-stone-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1140-stone-game-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3174-clear-digits](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3174-clear-digits) |
 ## Stack
@@ -164,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [3310-remove-methods-from-project](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [3310-remove-methods-from-project](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 <!---LeetCode Topics End-->

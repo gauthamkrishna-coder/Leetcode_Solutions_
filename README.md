@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [0290-word-pattern](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0290-word-pattern) |
 | [1446-consecutive-characters](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1446-consecutive-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0396-rotate-function) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 ## Monotonic Stack
 |  |

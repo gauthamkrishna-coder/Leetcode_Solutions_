@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
 | [3174-clear-digits](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3174-clear-digits) |
 ## Minimax
 |  |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

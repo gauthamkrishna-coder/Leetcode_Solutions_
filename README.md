@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0136-single-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |

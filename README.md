@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [0290-word-pattern](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0290-word-pattern) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0076-minimum-window-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking

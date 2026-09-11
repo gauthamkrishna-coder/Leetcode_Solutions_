@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Recursion
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |

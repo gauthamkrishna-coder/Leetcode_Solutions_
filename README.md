@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
 | ------- |

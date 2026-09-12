@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
+| [0506-relative-ranks](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [0877-stone-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0877-stone-game) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0454-4sum-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0396-rotate-function) |
 | [0454-4sum-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0454-4sum-ii) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |

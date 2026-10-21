@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0454-4sum-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0856-score-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1865-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->

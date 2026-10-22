@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0289-game-of-life) |
 | [0324-wiggle-sort-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0289-game-of-life) |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3174-clear-digits](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3174-clear-digits) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0289-game-of-life) |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 ## Monotonic Stack
 |  |

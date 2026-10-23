@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/1510-stone-game-iv) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3404-count-special-subsequences](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3404-count-special-subsequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3731-find-missing-elements) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0136-single-number) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Trie
 |  |
 | ------- |

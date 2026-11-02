@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0877-stone-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0396-rotate-function) |
 | [0454-4sum-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0506-relative-ranks) |

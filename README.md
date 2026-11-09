@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0283-move-zeroes) |
@@ -219,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0200-number-of-islands) |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [3310-remove-methods-from-project](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0200-number-of-islands) |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
 | [3310-remove-methods-from-project](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0289-game-of-life) |
 | [0749-contain-virus](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0749-contain-virus) |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0102-binary-tree-level-order-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

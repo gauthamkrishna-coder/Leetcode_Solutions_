@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0005-longest-palindromic-substring) |
 | [0396-rotate-function](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0877-stone-game) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0200-number-of-islands) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauthamkrishna-coder/Leetcode_Solutions_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
